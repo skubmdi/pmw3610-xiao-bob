@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PMW3610DM-SUDU")(type "KiCad")(uri "${KIPRJMOD}/library.pretty/PMW3610DM-SUDU.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "${KIPRJMOD}/library.pretty/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "XIAO-DIP")(type "Legacy")(uri "${KIPRJMOD}/library.pretty/XIAO-DIP.kicad_sym")(options "")(descr ""))
+)
